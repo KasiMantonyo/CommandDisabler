@@ -1,0 +1,9 @@
+# CommandDisabler - config.yml !
+
+Message: "&cCommandProtection &8|| &fHey!, &c&nsorry&r&f, but you cant use this command"
+Commands: # List of commands, put what ever you want
+  - /plugins
+  - /pl
+  - /bukkit:ver
+  - /minecraft:me
+  - /op
